@@ -1,0 +1,213 @@
+[
+  {
+    "section": "补充-中文复合韵母-双元音全覆盖",
+    "emotion": "neutral",
+    "sentences": [
+      "买菜回来，台北飞机。",
+      "回家睡觉，牛肉猪肉。",
+      "姐姐月亮，鞋鞋跃跃。"
+    ]
+  },
+  {
+    "section": "补充-中文复合韵母-前鼻音",
+    "emotion": "neutral",
+    "sentences": [
+      "天天看看，山山盘盘。",
+      "本本分分，金金银银。",
+      "军军春春，云云群群。"
+    ]
+  },
+  {
+    "section": "补充-中文复合韵母-后鼻音全覆盖",
+    "emotion": "neutral",
+    "sentences": [
+      "长长帮帮，光光王王。",
+      "灯灯风风，生生增增。",
+      "冰冰星星，兵兵听听。",
+      "龙龙从从，红红东东。"
+    ]
+  },
+  {
+    "section": "补充-中文特殊韵母组合",
+    "emotion": "neutral",
+    "sentences": [
+      "天天连连，烟烟圆圆。",
+      "江江相相，光光黄黄。",
+      "雄雄穷穷，兄兄荣荣。",
+      "乖乖怀怀，拐拐快快。",
+      "端端关关，弯弯算算。",
+      "床床窗窗，霜霜双双。",
+      "捐捐卷卷，全全宣宣。"
+    ]
+  },
+  {
+    "section": "补充-英文TH音素（关键）",
+    "emotion": "neutral",
+    "sentences": [
+      "Think about this thing through and through.",
+      "The three brothers thought about their mother.",
+      "I think that this is the truth.",
+      "Thank you for your thoughts."
+    ]
+  },
+  {
+    "section": "补充-英文DH音素（浊th）",
+    "emotion": "neutral",
+    "sentences": [
+      "This, that, these, and those.",
+      "Father and mother are together.",
+      "Weather is better than ever.",
+      "They rather like the feather."
+    ]
+  },
+  {
+    "section": "补充-英文NG音素",
+    "emotion": "neutral",
+    "sentences": [
+      "Sing a long song about the king.",
+      "Ringing, bringing, hanging, swinging.",
+      "Long string, strong wing, young thing.",
+      "Morning, evening, during, amazing."
+    ]
+  },
+  {
+    "section": "补充-英文ZH音素",
+    "emotion": "neutral",
+    "sentences": [
+      "Measure the pleasure with leisure.",
+      "Vision, decision, division, collision.",
+      "Treasure the azure pleasure.",
+      "Usually casual occasion."
+    ]
+  },
+  {
+    "section": "补充-英文OY双元音",
+    "emotion": "neutral",
+    "sentences": [
+      "Boy enjoys the toy with joy.",
+      "Voice, choice, noise, void.",
+      "Royal coin point joint.",
+      "Oyster, loyal, annoy, employ."
+    ]
+  },
+  {
+    "section": "补充-英文AW双元音",
+    "emotion": "neutral",
+    "sentences": [
+      "How now brown cow?",
+      "Loud sound around the town.",
+      "Down, crown, gown, drown.",
+      "Shower, power, tower, flower."
+    ]
+  },
+  {
+    "section": "补充-英文UH音素",
+    "emotion": "neutral",
+    "sentences": [
+      "Look, book, cook, took.",
+      "Good wood should could.",
+      "Put foot on hook.",
+      "Woman, wolf, wool, full."
+    ]
+  },
+  {
+    "section": "补充-英文ER音素（儿化音）",
+    "emotion": "neutral",
+    "sentences": [
+      "Her bird hurt first.",
+      "Work, word, world, worthy.",
+      "Turn, burn, learn, earn.",
+      "Perfect service purpose."
+    ]
+  },
+  {
+    "section": "补充-英文AO音素",
+    "emotion": "neutral",
+    "sentences": [
+      "Call all small ball.",
+      "Caught, taught, thought, brought.",
+      "Law, saw, raw, draw.",
+      "Talk, walk, chalk, stalk."
+    ]
+  },
+  {
+    "section": "补充-英文辅音群组合",
+    "emotion": "neutral",
+    "sentences": [
+      "Spring, string, strong, strange.",
+      "Screen, scream, scratch, script.",
+      "Play, please, place, plain.",
+      "Bright, brown, bread, bring."
+    ]
+  },
+  {
+    "section": "补充-英文L和R对比",
+    "emotion": "neutral",
+    "sentences": [
+      "Light and right, lead and read.",
+      "Lock and rock, low and row.",
+      "Collect, correct, elect, erect.",
+      "Fly and fry, play and pray."
+    ]
+  },
+  {
+    "section": "补充-英文V和W对比",
+    "emotion": "neutral",
+    "sentences": [
+      "Very well, vest west, vet wet.",
+      "Vine wine, vile while, vale wail.",
+      "Vowel, view, value, vacuum.",
+      "Wave, weave, waive, we've."
+    ]
+  },
+  {
+    "section": "补充-英文重读和轻读对比",
+    "emotion": "neutral",
+    "sentences": [
+      "A apple, the book, an orange.",
+      "Can you? Can I? Could we?",
+      "To go, to see, to do, to be.",
+      "And, but, or, for, at, in, on."
+    ]
+  },
+  {
+    "section": "补充-中文轻声和变调",
+    "emotion": "neutral",
+    "sentences": [
+      "桌子、椅子、孩子、房子。",
+      "爸爸、妈妈、哥哥、姐姐。",
+      "明白、知道、应该、可以。",
+      "一个、两个、三个、几个。"
+    ]
+  },
+  {
+    "section": "补充-中文难发音组合",
+    "emotion": "neutral",
+    "sentences": [
+      "出租车、初中生、吃醋吧。",
+      "知识、实施、十四、四十。",
+      "女律师、旅游、绿色、驴子。",
+      "撕纸、思维、私事、司机。"
+    ]
+  },
+  {
+    "section": "补充-英文连读和弱读",
+    "emotion": "neutral",
+    "sentences": [
+      "Check it out, pick it up, put it on.",
+      "Want to, going to, got to, have to.",
+      "I'd like, I'll be, I've been, I'm going.",
+      "At the end of the day in a way."
+    ]
+  },
+  {
+    "section": "补充-混合中英文",
+    "emotion": "neutral",
+    "sentences": [
+      "我说的是English，你懂的是Chinese。",
+      "今天去shopping，明天去meeting。",
+      "这个project很important，要认真working。",
+      "发个email确认一下details。"
+    ]
+  }
+]

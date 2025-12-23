@@ -1,0 +1,316 @@
+[
+  {
+    "section": "基础音素-单元音-张嘴a",
+    "emotion": "neutral",
+    "sentences": [
+      "大家好啊，花花，爸爸妈妈，哈哈大笑。"
+    ]
+  },
+  {
+    "section": "基础音素-单元音-扁嘴i",
+    "emotion": "neutral",
+    "sentences": [
+      "一七西瓜，机器鸡鸡，cheese一起。"
+    ]
+  },
+  {
+    "section": "基础音素-单元音-圆嘴u",
+    "emotion": "neutral",
+    "sentences": [
+      "五路不图书，cool到处走走。"
+    ]
+  },
+  {
+    "section": "基础音素-单元音-咧嘴e",
+    "emotion": "neutral",
+    "sentences": [
+      "也谢谢姐姐，bed很热。"
+    ]
+  },
+  {
+    "section": "基础音素-单元音-合嘴o",
+    "emotion": "neutral",
+    "sentences": [
+      "我多波喔，落落大方。"
+    ]
+  },
+  {
+    "section": "基础音素-复合韵母-双元音",
+    "emotion": "neutral",
+    "sentences": [
+      "白菜配豆腐。走走猴猴。飞飞北北。"
+    ]
+  },
+  {
+    "section": "基础音素-复合韵母-鼻音韵母",
+    "emotion": "neutral",
+    "sentences": [
+      "天安门前看升旗。东东听听风声。"
+    ]
+  },
+  {
+    "section": "基础音素-复合韵母-卷舌韵母",
+    "emotion": "neutral",
+    "sentences": [
+      "儿子耳朵二十二。尔尔而而。"
+    ]
+  },
+  {
+    "section": "基础音素-复合韵母-特殊韵母ü",
+    "emotion": "neutral",
+    "sentences": [
+      "去月球旅游。鱼鱼约约圆圆。女女绿绿。"
+    ]
+  },
+  {
+    "section": "基础音素-四声调对比",
+    "emotion": "neutral",
+    "sentences": [
+      "妈妈骑马，马慢，妈妈骂马。",
+      "狮子、柿子、石子、师资。",
+      "衣医椅意，乌无五物。"
+    ]
+  },
+  {
+    "section": "辅音全覆盖-双唇音bpm",
+    "emotion": "neutral",
+    "sentences": [
+      "爸爸抱宝宝。妈妈买馒头。葡萄皮破了。"
+    ]
+  },
+  {
+    "section": "辅音全覆盖-唇齿音fv",
+    "emotion": "neutral",
+    "sentences": [
+      "发发发，飞非飞。Five very fast vehicles。"
+    ]
+  },
+  {
+    "section": "辅音全覆盖-舌尖音dtnl",
+    "emotion": "neutral",
+    "sentences": [
+      "等待到达。特地推脱。蓝脸的窦尔敦盗御马。"
+    ]
+  },
+  {
+    "section": "辅音全覆盖-舌根音gkh",
+    "emotion": "neutral",
+    "sentences": [
+      "哥哥开车过高速。咳咳，喝水。客客，刻刻骨骨。"
+    ]
+  },
+  {
+    "section": "辅音全覆盖-舌面音jqx",
+    "emotion": "neutral",
+    "sentences": [
+      "家家叫姐姐。七七去吃西瓜。下雪了小心谢谢。"
+    ]
+  },
+  {
+    "section": "辅音全覆盖-翘舌音zhchshr",
+    "emotion": "neutral",
+    "sentences": [
+      "知道吃什么吗？日日出师表。赵钱孙李，周吴郑王。"
+    ]
+  },
+  {
+    "section": "辅音全覆盖-平舌音zcs",
+    "emotion": "neutral",
+    "sentences": [
+      "再见，从此思念。四十四只石狮子。自自在在走走。"
+    ]
+  },
+  {
+    "section": "辅音全覆盖-鼻音ng",
+    "emotion": "neutral",
+    "sentences": [
+      "嗯，听听声音，叮咚。英英明明，荣荣融融。"
+    ]
+  },
+  {
+    "section": "情绪演绎-开心激动",
+    "emotion": "happy",
+    "sentences": [
+      "哇！真的吗？太棒了！",
+      "我终于成功了！",
+      "哈哈哈，今天真是个好日子！耶！"
+    ]
+  },
+  {
+    "section": "情绪演绎-悲伤低落",
+    "emotion": "sad",
+    "sentences": [
+      "唉...真的很遗憾。",
+      "我不知道该怎么办了。",
+      "心里好难过...为什么会这样呢..."
+    ]
+  },
+  {
+    "section": "情绪演绎-生气愤怒",
+    "emotion": "angry",
+    "sentences": [
+      "这绝对不行！",
+      "我忍无可忍了！",
+      "别再跟我开玩笑了！够了！"
+    ]
+  },
+  {
+    "section": "情绪演绎-惊讶疑惑",
+    "emotion": "surprised",
+    "sentences": [
+      "什么？这是真的吗？",
+      "怎么会发生这种事？",
+      "不可思议！天哪！"
+    ]
+  },
+  {
+    "section": "情绪演绎-平静叙述",
+    "emotion": "neutral",
+    "sentences": [
+      "今天天气不错，我们去公园散步吧。",
+      "然后可以喝杯咖啡，聊聊天。"
+    ]
+  },
+  {
+    "section": "情绪演绎-思考犹豫",
+    "emotion": "thoughtful",
+    "sentences": [
+      "嗯...让我想想...也许可以这样做？",
+      "不过...好像也不太对..."
+    ]
+  },
+  {
+    "section": "情绪演绎-害怕紧张",
+    "emotion": "fearful",
+    "sentences": [
+      "怎么办？会不会出问题？",
+      "我有点担心...真的没事吗？"
+    ]
+  },
+  {
+    "section": "情绪演绎-疲惫无奈",
+    "emotion": "tired",
+    "sentences": [
+      "唉，又加班了。算了，随便吧。",
+      "累死我了，不想动了。"
+    ]
+  },
+  {
+    "section": "情绪演绎-温柔撒娇",
+    "emotion": "gentle",
+    "sentences": [
+      "好不好嘛~拜托啦~",
+      "就这一次~好吗？"
+    ]
+  },
+  {
+    "section": "情绪演绎-自信坚定",
+    "emotion": "confident",
+    "sentences": [
+      "没问题！我可以的！",
+      "相信我，一定会成功！"
+    ]
+  },
+  {
+    "section": "复杂场景-快速连读",
+    "emotion": "neutral",
+    "sentences": [
+      "我不知道你到底在说什么，但是我觉得这件事情可能需要再考虑一下。",
+      "昨天我去超市买了苹果香蕉牛奶面包鸡蛋还有一些零食。"
+    ]
+  },
+  {
+    "section": "复杂场景-停顿和呼吸",
+    "emotion": "neutral",
+    "sentences": [
+      "首先，我们需要明确目标。然后，制定计划。最后，开始执行。",
+      "听我说，这件事，非常重要。"
+    ]
+  },
+  {
+    "section": "复杂场景-疑问句",
+    "emotion": "curious",
+    "sentences": [
+      "你吃饭了吗？真的吗？什么时候？在哪里？为什么？怎么办？"
+    ]
+  },
+  {
+    "section": "复杂场景-叠词和儿化音",
+    "emotion": "neutral",
+    "sentences": [
+      "慢慢儿走，玩儿玩儿。小小的、软软的、甜甜的。",
+      "一点儿一点儿地做，别着急儿。"
+    ]
+  },
+  {
+    "section": "复杂场景-非语音声音",
+    "emotion": "happy",
+    "sentences": [
+      "哈哈哈哈哈~嘻嘻嘻。",
+      "嗯嗯嗯。嗯？嗯！",
+      "啊？哦！唔...呃..."
+    ]
+  },
+  {
+    "section": "实战对话-客服场景",
+    "emotion": "professional",
+    "sentences": [
+      "您好，请问有什么可以帮您？",
+      "好的，我明白了。请稍等，我马上为您查询。"
+    ]
+  },
+  {
+    "section": "实战对话-教学场景",
+    "emotion": "professional",
+    "sentences": [
+      "今天我们来学习一个新的知识点。请大家注意看。",
+      "明白了吗？有问题可以提问。"
+    ]
+  },
+  {
+    "section": "实战对话-讲故事",
+    "emotion": "storytelling",
+    "sentences": [
+      "从前有一座山，山里有座庙，庙里有个老和尚在给小和尚讲故事..."
+    ]
+  },
+  {
+    "section": "实战对话-新闻播报",
+    "emotion": "professional",
+    "sentences": [
+      "据最新消息，今天下午三点，将举行重要会议。",
+      "详细情况我们将持续关注。"
+    ]
+  },
+  {
+    "section": "实战对话-日常闲聊",
+    "emotion": "casual",
+    "sentences": [
+      "嗨！最近怎么样？还不错吧？",
+      "有空一起吃饭啊？好啊，那就这么定了！"
+    ]
+  },
+  {
+    "section": "英文覆盖-基础音素",
+    "emotion": "neutral",
+    "sentences": [
+      "The quick brown fox jumps over the lazy dog."
+    ]
+  },
+  {
+    "section": "英文覆盖-常用短语",
+    "emotion": "neutral",
+    "sentences": [
+      "Hello, how are you? Thank you very much.",
+      "Good morning. Have a nice day!"
+    ]
+  },
+  {
+    "section": "英文覆盖-数字和字母",
+    "emotion": "neutral",
+    "sentences": [
+      "One, two, three, four, five.",
+      "A, B, C, D, E, F, G."
+    ]
+  }
+]
